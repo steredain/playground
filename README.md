@@ -1,4 +1,4 @@
-PLEASE DON'T FORK OR COPY THIS REPOSITORY
+PLEASE FORK OR COPY THIS REPOSITORY
 =========================================
 
 A simple change.
